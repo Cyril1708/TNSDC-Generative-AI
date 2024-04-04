@@ -23,6 +23,8 @@ This project aims to provide a framework for training and testing cGANs for vari
 
 ## Getting Started
 
+Dataset link:"https://www.tensorflow.org/datasets/catalog/cycle_gan#cycle_ganhorse2zebra"
+
 1. Prepare your dataset:
 - Collect a dataset of paired images, where each pair consists of an input image from the source domain and its corresponding target image from the target domain.
 - Preprocess the dataset as necessary (resize, normalize, augment, etc.)
